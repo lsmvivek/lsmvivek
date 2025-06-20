@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lsmvivek
-- 👀 I’m interested in ... Earth science, Land surface interaction
-- 🌱 I’m currently learning ... GRACE data processing, modelling & simulation
-- 💞️ I’m looking to collaborate on ... TWS variabilty, ET data genration, Global energy budget
+- 👀 I’m interested in ... Earth System science, Causality
+- 🌱 I’m currently learning ... processing GRACE data, creating models and running simulations
+- 💞️ I’m looking to collaborate on ... TWS variabilty, Causality
 - 📫 How to reach me ... email: viveky@iisc.ac.in
 
 <!---
