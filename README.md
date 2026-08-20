@@ -8,7 +8,7 @@ I am interested in terrestrial water storage, Earth system modelling, and causal
 🎓 Indian Institute of Science (IISc), Bengaluru  
 🇮🇳 India
 
-## Selected work
+## Selected Works
 
 <table>
   <tr>
